@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Outfit:wght@300;400;500;600;700;800&family=Open+Sans:wght@400;700&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html, body { font-family: "Poppins", sans-serif; }
+.font-outfit { font-family: "Outfit", sans-serif; }
+.font-opensans { font-family: "Open Sans", sans-serif; }
+details summary::-webkit-details-marker { display: none; }
+details[open] summary .accordion-icon { transform: rotate(45deg); }

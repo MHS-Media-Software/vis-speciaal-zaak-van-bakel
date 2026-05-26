@@ -5,8 +5,8 @@ import NavTemplate1 from "../components/NavTemplate1";
 import FooterTemplate1 from "../components/FooterTemplate1";
 
 export const metadata = {
-  title: "Visspeciaalzaak van Bakel | Verse Vis, Sushi & Visschotels in Oss",
-  description: "Dé visspecialist in Oss al 27 jaar. Verse vis, gebakken kibbeling, sushi, pokébowls, vis- en tapasschalen en zelfgemaakte salades. Bestel op maat bij Visspeciaalzaak van Bakel aan de Terwaenen.",
+  title: "Visspeciaalzaak van Bakel | Verse Vis, Maaltijden & Visschotels in Oss",
+  description: "Al 27 jaar dé visspeciaalzaak van Oss. Verse vis, gebakken kibbeling, sushi, poké bowls, tapasschalen en kant-en-klare maaltijden — alles uit eigen keuken. Bestel nu bij Van Bakel.",
 };
 
 export default function RootLayout({ children }) {

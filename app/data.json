@@ -1,21 +1,21 @@
 {
   "concept": {
     "companyName": "Visspeciaalzaak van Bakel",
-    "tagline": "Dé visspecialist van Oss — al 27 jaar",
+    "tagline": "Verse vis, eigen keuken, al 27 jaar in Oss",
     "sector": "Viswinkel & visspeciaalzaak",
     "colors": {
       "primary": "#1cbf13",
-      "secondary": "#0e8a0a",
-      "accent": "#f5f9f5",
-      "background": "#f2faf2",
-      "text": "#1a2b1a"
+      "secondary": "#0e8f09",
+      "accent": "#e8f7e7",
+      "background": "#f4fbf3",
+      "text": "#1a2b19"
     },
     "styleOverrides": {
-      "heroLayout": "split-left-image-right-form",
-      "uspBandBg": "#d4f0d2",
-      "cardRadius": "16px",
-      "footerBg": "#1a2b1a",
-      "fontFeeling": "friendly, fresh, artisanal"
+      "heroLayout": "split-food",
+      "cardStyle": "rounded-2xl with warm shadow and food-forward imagery",
+      "uspBand": "fresh-green banded strip with white sub-cards",
+      "footerBg": "#1a2b19",
+      "accentBand": "#d4f0d1"
     },
     "contact": {
       "phone": "+31625027691",
@@ -28,202 +28,202 @@
       "linkedin": "",
       "youtube": ""
     },
-    "heroTitle": "Verse Vis & Visgerechten in Oss",
-    "heroSubtitle": "Visspeciaalzaak van Bakel biedt al 27 jaar een ruim assortiment verse vis, eigen bereidingen, sushi, schotels en meer — rechtstreeks uit onze keuken aan de Terwaenen.",
-    "heroBadge": "Al 27 jaar versheid",
-    "heroButtonText": "Bekijk ons assortiment",
+    "heroTitle": "Dé Visspecialist van Oss",
+    "heroSubtitle": "Van verse kabeljauw tot zelfgemaakte sauzen en prachtige visschotels — allemaal uit eigen keuken. Kom langs of bestel uw favorieten bij Visspeciaalzaak van Bakel.",
+    "heroBadge": "Al 27 jaar een begrip",
+    "heroButtonText": "Bekijk ons aanbod",
     "uspCards": [
       {
         "icon": "CheckCircle",
-        "title": "Altijd vers",
-        "description": "Dagelijks aanvoer van verse vis, rechtstreeks voor u geselecteerd. Wat er niet is, bestellen we voor u."
+        "title": "Vers uit eigen keuken",
+        "description": "Alle marinades, sauzen, salades en bereide gerechten maken wij zelf. Niets komt uit een fabriek."
       },
       {
         "icon": "Star",
-        "title": "Eigen keuken",
-        "description": "Van visbami tot kruidenboter: al onze marinades, sauzen en bereidingen komen uit onze eigen keuken."
+        "title": "Ruim assortiment",
+        "description": "Van dagverse filets tot exotische soorten — wat er niet is, bestellen we speciaal voor u."
+      },
+      {
+        "icon": "Handshake",
+        "title": "Persoonlijk & betrokken",
+        "description": "Ons gezellige team staat elke dag klaar met advies en een glimlach voor elke visliefhebber."
       },
       {
         "icon": "Award",
-        "title": "27 jaar ervaring",
-        "description": "Sinds 1997 dé visspecialist van Oss. Een begrip in de regio, met een loyaal team en vaste klanten."
-      },
-      {
-        "icon": "Sparkles",
-        "title": "Op bestelling",
-        "description": "Visschalen, gourmetschotels, sushi en tapas — wij maken het op maat voor uw feest of gezellig avondje."
+        "title": "27 jaar vakmanschap",
+        "description": "Sinds bijna drie decennia dé vertrouwde visspeciaalzaak in Oss en omgeving."
       }
     ],
     "about": {
-      "title": "Een begrip in Oss — al 27 jaar aan de Terwaenen",
-      "text": "Visspeciaalzaak van Bakel is gevestigd aan de Terwaenen 30 in Oss en vormt al ruim 27 jaar het kloppende hart van visliefhebbers in de regio. Ons enthousiaste team staat elke dag klaar met een breed assortiment verse vis, kant-en-klare maaltijden en zelfgemaakte producten.\n\nAl onze marinades, sauzen, salades en gerechten bereiden we in onze eigen keuken. Van kruidenboter tot visbami, van zalmsalade tot de Osse Visplank — alles is met zorg en vakmanschap bereid. Kwaliteit en versheid staan bij ons op de eerste plaats, en dat proef je.\n\nVoor bijzondere gelegenheden verzorgen we uitgebreide visschalen, gourmet- en fondueschotels, sushi, sashimi en tapasplanken. Vooraf bestellen? Dat regelen we graag voor u.",
+      "title": "Visspeciaalzaak van Bakel — Hart van Oss",
+      "text": "Visspeciaalzaak van Bakel is gelegen aan de Terwaenen 30 in Oss. Al 27 jaar vormen wij samen een gezellig, gedreven team dat klanten dagelijks verrast met een breed aanbod van verse vis, kant-en-klare maaltijden en huisgemaakte salades.\n\nAlles wat u bij ons proeft, komt uit eigen keuken. Van kruidenboter tot visbami, van zelfgemaakte aïoli tot marinades — elk recept dragen wij met trots. Visschalen, gourmet- en fondueschalen, sushi, sashimi en tapasschotels bereidt ons team met liefde voor ieder moment.\n\nOf u nu snel een broodje gebakken vis wil meenemen of een complete visplank bestelt voor een feestelijk diner: bij Van Bakel zit u altijd goed.",
       "yearsExperience": "27",
       "checklistItems": [
-        "Dagvers assortiment, van filet tot hele vis",
-        "Eigen keuken: alles zelfgemaakt",
-        "Op maat: van broodje tot feestschotel"
+        "Dagvers assortiment, inclusief exotische soorten",
+        "Eigen keuken: sauzen, marinades en maaltijden",
+        "Op bestelling: visschotels, sushi en gourmetschalen"
       ]
     },
     "partners": [],
     "uniqueFeatures": {
-      "sectionTitle": "Waarom klanten voor ons kiezen",
-      "sectionText": "Van verse vis en zelfgemaakte sauzen tot luxe visschotels en sushi — bij Van Bakel krijgt u altijd vakmanschap op uw bord.",
+      "sectionTitle": "Waarom klanten steeds terugkomen",
+      "sectionText": "Bij Visspeciaalzaak van Bakel draait alles om kwaliteit, vakmanschap en een persoonlijke aanpak. Dit maakt ons uniek.",
       "items": [
-        {
-          "icon": "Layers",
-          "title": "Breed assortiment",
-          "description": "Van kabeljauw en zeebaars tot oesters, mosselen, kreeft en exotische soorten. Altijd een ruime keuze, en wat er niet is bestellen we voor u."
-        },
-        {
-          "icon": "Heart",
-          "title": "Zelfgemaakt met liefde",
-          "description": "Geen fabrieksproduct maar eigengemaakte kruidenboter, huisgemaakte aïoli, visbami en salades. U proeft het verschil."
-        },
         {
           "icon": "Sparkles",
           "title": "Osse Visplank",
-          "description": "Onze signature plank met tonijn furikake, gemarineerde gamba's en gerookte palingfilet, geserveerd met aïoli en desembrood."
+          "description": "Een rijkelijk opgemaakte plank met tonijn furikake, gemarineerde gamba's en gerookte palingfilet — geserveerd met huisgemaakte aïoli en desembrood."
+        },
+        {
+          "icon": "Layers",
+          "title": "Sushi & Poké Bowls",
+          "description": "Verse sushi en sashimi, vakkundig bereid. Poké bowls met de lekkerste vis combinaties, volledig op maat voor u samengesteld."
+        },
+        {
+          "icon": "Heart",
+          "title": "Huisgemaakte recepten",
+          "description": "Van visbami tot kruidenboter: alle sauzen en marinades komen uit onze eigen keuken, nooit uit een fabriek."
         },
         {
           "icon": "Users",
-          "title": "Feesten & partijen",
-          "description": "Vis- en tapasschalen van klein tot groot, gourmetschotels en fondueschotels — wij verzorgen uw hapjes voor elk gezelschap."
+          "title": "Feest- en partijschotels",
+          "description": "Vis- en tapasschalen van klein tot groot, perfect voor een verjaardag, borrel of feestelijk diner thuis."
         },
         {
           "icon": "Globe",
-          "title": "Sushi & pokébowls",
-          "description": "Naast de klassieke visspecialiteiten bieden wij ook een uitgebreide selectie sushi, sashimi en trendy pokébowls op bestelling."
+          "title": "Schaal- en schelpdieren",
+          "description": "Mosselen, oesters, coquilles, kreeft en krab — vers beschikbaar of speciaal voor u besteld."
         }
       ]
     },
     "services": [
       {
-        "name": "Verse vis",
-        "description": "Dagelijks vers aangeleverd: kabeljauw, zeebaars, zalm, tonijn en nog veel meer. Hele vissen of filets, en op verzoek ook exotische soorten. Wat niet op voorraad is, bestellen we speciaal voor u.",
-        "imagePrompt": "Fresh whole fish and fillets arranged on crushed ice at a fishmonger's counter, vibrant colors, cod, sea bass, salmon, styled food photography, soft natural light, inviting and fresh atmosphere"
+        "name": "Verse Vis",
+        "description": "Van kabeljauw en zeebaars tot exotische soorten — wij bieden dagelijks een ruim assortiment verse vis, zowel heel als filet. Wat er niet ligt, bestellen wij speciaal voor u.",
+        "imagePrompt": "Close-up of fresh whole fish and fillets arranged on crushed ice at a traditional Dutch fish shop counter, vibrant colors, soft natural light highlighting textures, photorealistic food market photography"
       },
       {
-        "name": "Gebakken vis & snacks",
-        "description": "Heerlijke kibbeling, gebakken vis en andere snacks bereid in onze eigen keuken. Knapperig van buiten, mals van binnen — perfect voor onderweg of thuis.",
-        "imagePrompt": "Golden crispy fried kibbeling fish snacks on wooden board with dipping sauce, warm natural light, close-up food photography, fresh and appetizing presentation, Dutch fish specialty"
+        "name": "Gebakken Vis & Snacks",
+        "description": "Heerlijke kibbeling, lekkerbekjes en andere gebakken snacks, vers bereid in onze eigen keuken. Ideaal om mee te nemen of ter plaatse te genieten.",
+        "imagePrompt": "Golden crispy fried kibbeling Dutch fish snacks in a paper cone with garlic aioli dipping sauce, warm soft natural light on wooden surface, styled food photography vibrant and inviting"
       },
       {
-        "name": "Belegde broodjes & maaltijden",
-        "description": "Een gevarieerde keuze in belegde broodjes met verse vis, maar ook complete vismenu's voor thuis. Snel, smakelijk en altijd vers bereid.",
-        "imagePrompt": "Freshly prepared fish sandwiches with salmon, shrimp and greens on artisan bread, styled food photography, wooden surface, vibrant and fresh presentation, soft warm light"
+        "name": "Maaltijden uit eigen keuken",
+        "description": "Kant-en-klare vismaaltijden, belegde broodjes met verse vis en complete vismenu's — allemaal bereid in onze keuken met verse ingrediënten en eigen marinades.",
+        "imagePrompt": "Beautifully plated Dutch fish meal with sauteed fish fillet, fresh herbs, lemon, and seasonal vegetables on a ceramic plate, soft warm natural light, gourmet food photography"
       },
       {
-        "name": "Vis- & tapasschalen",
-        "description": "Voor een feestje of gezellig avondje verzorgen wij gepresenteerde schalen van kleine hapjesplanken tot luxe visschotels. De Osse Visplank is onze trots: tonijn furikake, gamba's en gerookte paling met aïoli.",
-        "imagePrompt": "Elegant seafood platter with smoked eel, marinated shrimps, tuna, aioli and sourdough bread on rustic wooden board, gourmet food photography, vibrant colors, styled presentation"
+        "name": "Vis- en Tapasschalen",
+        "description": "Voor een feestje of gezellig avondje verzorgen wij uw hapjes en schalen. Van klein tot groot, volledig op maat samengesteld met de lekkerste vis en tapas.",
+        "imagePrompt": "Elegant large fish and tapas platter with smoked salmon, marinated shrimps, ceviche, olives and dipping sauces on a rustic wooden board, vibrant and abundant, styled food photography"
       },
       {
-        "name": "Sushi & pokébowls",
-        "description": "Verse sushi, sashimi en pokébowls bereid op bestelling. Een moderne aanvulling op ons traditionele visassortiment, met dezelfde aandacht voor kwaliteit en versheid.",
-        "imagePrompt": "Assorted sushi rolls and poke bowl with fresh salmon, tuna, avocado and sesame seeds, vibrant food photography, ceramic bowls, soft natural light, Japanese-inspired plating on wooden surface"
+        "name": "Osse Visplank",
+        "description": "Een prachtig opgemaakte plank, rijkelijk gevuld met tonijn furikake, gemarineerde gamba's en gerookte palingfilet. Geserveerd met huisgemaakte aïoli en desembrood — een echte beleving.",
+        "imagePrompt": "Stunning Osse Visplank wooden serving board loaded with tuna furikake, marinated prawns, smoked eel fillet, homemade aioli and sourdough bread, dramatic natural light, fine dining fish restaurant photography"
       },
       {
-        "name": "Schaal- en schelpdieren",
-        "description": "Mosselen, oesters, coquilles, vongolen, kreeft, krab en meer — vers verzorgd voor u. De perfecte basis voor een luxe diner of feestelijk voorgerecht.",
-        "imagePrompt": "Fresh shellfish assortment including oysters, mussels, clams and lobster on crushed ice with lemon, luxury food photography, soft natural light, vibrant ocean colors, gourmet presentation"
+        "name": "Sushi & Poké Bowls",
+        "description": "Ambachtelijke sushi en sashimi, vakkundig bereid met dagverse vis. Ook heerlijke poké bowls met uw favoriete vis en toppings — vooraf te bestellen.",
+        "imagePrompt": "Fresh sushi rolls and poke bowl with salmon, tuna, avocado, edamame and sesame seeds on a clean white ceramic plate, vibrant colors soft natural light, professional food photography"
       },
       {
-        "name": "Salades & tapas",
-        "description": "Zelfgemaakte salades en tapas uit onze eigen keuken. Van zalmsalade tot vissalade-variaties — ideaal als bijgerecht, borrelhap of onderdeel van een groter feestmenu.",
-        "imagePrompt": "Colorful homemade fish salads and tapas with salmon, herbs, capers and fresh vegetables in ceramic bowls, vibrant food photography, wooden board surface, natural daylight, fresh and inviting"
+        "name": "Schaal- en Schelpdieren",
+        "description": "Mosselen, oesters, coquilles, vongolen, kreeft, krab en meer — vers voor u beschikbaar of op bestelling. De kwaliteit is zoals u dat van een echte visspecialist verwacht.",
+        "imagePrompt": "Fresh shellfish and seafood selection including oysters, mussels, crab claws and king prawns on crushed ice, vibrant rich colors, soft natural light, gourmet seafood market photography"
       },
       {
-        "name": "Gerookte vis",
-        "description": "Een selectie gerookte visspecialiteiten, waaronder palingfilet, gerookte zalm en meer. Diep van smaak, perfect als borrelhap of luxe topping.",
-        "imagePrompt": "Sliced smoked eel and salmon on wooden board with herbs, lemon wedges and dark rye bread, styled gourmet food photography, warm soft lighting, rich brown tones, artisan presentation"
+        "name": "Gerookte Vis",
+        "description": "Een selectie van ambachtelijk gerookte vis, waaronder zalm en palingfilet. Perfect als snack, op een broodje of als onderdeel van een uitgebreide visschotel.",
+        "imagePrompt": "Sliced smoked salmon and eel fillet on a dark slate board with capers, lemon slices, fresh dill and cream cheese, warm natural lighting, styled gourmet food photography"
       }
     ],
     "steps": [
       {
         "icon": "List",
         "title": "Kies uw producten",
-        "description": "Bekijk ons brede assortiment verse vis, maaltijden, schalen en salades. Weet u niet wat u wilt? Ons team adviseert u graag."
+        "description": "Bekijk ons uitgebreide aanbod van verse vis, maaltijden, salades, sushi en feestschotels — voor elk moment iets lekkers."
       },
       {
         "icon": "Phone",
-        "title": "Bestel op maat",
-        "description": "Voor feestschotels, sushi, gourmetschalen of speciale bestellingen neemt u contact op of belt u ons. We stemmen alles op uw wensen af."
+        "title": "Bestel of reserveer",
+        "description": "Bel ons, stuur een mail of kom langs in de winkel aan de Terwaenen 30 in Oss. Speciale bestellingen regelen wij graag vooraf."
       },
       {
-        "icon": "ClipboardCheck",
-        "title": "Wij bereiden het voor",
-        "description": "Ons team aan de Terwaenen bereidt uw bestelling vers en op maat in onze eigen keuken — met zelfgemaakte sauzen en marinades."
+        "icon": "Sparkles",
+        "title": "Wij bereiden het vers",
+        "description": "Onze keuken gaat aan de slag met uw bestelling — alles vers, alles met eigen recepten en volop aandacht voor kwaliteit."
       },
       {
-        "icon": "Handshake",
-        "title": "Ophalen & genieten",
-        "description": "U haalt uw bestelling op in onze winkel in Oss en geniet van de versheid en kwaliteit die Van Bakel al 27 jaar levert."
+        "icon": "Heart",
+        "title": "Geniet ervan!",
+        "description": "Haal uw bestelling op in de winkel of laat u verrassen door onze dagverse producten — klaar om direct van te genieten."
       }
     ],
-    "stepsTitle": "Hoe het werkt",
-    "stepsText": "Van bestelling tot bord — eenvoudig en persoonlijk geregeld bij Visspeciaalzaak van Bakel.",
+    "stepsTitle": "Zo werkt het bij Van Bakel",
+    "stepsText": "Van bestelling tot bord — eenvoudig, vers en altijd met vakmanschap bereid door ons eigen team.",
     "projects": [],
     "blogPosts": [
       {
-        "title": "De Osse Visplank: ons signature gerecht",
-        "excerpt": "De Osse Visplank is een rijkelijk gevulde plank met tonijn furikake, gemarineerde gamba's en gerookte palingfilet. Geserveerd met huisgemaakte aïoli en desembrood — perfect voor een bijzondere gelegenheid.",
-        "imagePrompt": "Signature seafood platter with tuna furikake, marinated shrimps and smoked eel fillet on rustic wooden board with homemade aioli and sourdough, gourmet styled photography, vibrant fresh colors"
+        "title": "De Osse Visplank: een feest op tafel",
+        "excerpt": "Onze signature Osse Visplank is uitgegroeid tot een absolute favoriet. Tonijn furikake, gemarineerde gamba's en gerookte palingfilet op een rijkelijk gevulde plank — dit is genieten. Ontdek hoe wij deze plank samenstellen.",
+        "imagePrompt": "Stunning Osse Visplank wooden board with tuna furikake, grilled prawns, smoked eel, sourdough bread and aioli, beautiful natural light, editorial food photography vibrant and luxurious"
       },
       {
-        "title": "Feest vieren? Wij verzorgen uw visschaal",
-        "excerpt": "Van kleine hapjesplanken tot grote visschotels de luxe — bij Van Bakel bestelt u uw feestelijke visschotel eenvoudig op maat. Wij zorgen voor de presentatie, u voor het gezelschap.",
-        "imagePrompt": "Large elegant fish and seafood party platter with salmon, shrimp, smoked fish and garnishes on a festive table setting, vibrant food photography, warm natural light, celebratory atmosphere"
+        "title": "Sushi uit Oss: vers en op maat",
+        "excerpt": "Wist u dat u bij Visspeciaalzaak van Bakel ook ambachtelijke sushi en poké bowls kunt bestellen? Onze keuken maakt alles vers, op bestelling, met de mooiste vis van het seizoen.",
+        "imagePrompt": "Fresh homemade sushi rolls and poke bowls with salmon tuna and vegetables on wooden table, vibrant natural colors, close-up styled food photography with soft warm light"
       },
       {
-        "title": "Sushi & pokébowls: modern & vers bij Van Bakel",
-        "excerpt": "Naast onze klassieke specialiteiten kunt u bij ons ook terecht voor verse sushi, sashimi en trendy pokébowls. Gemaakt met dezelfde verse vis die u van ons kent — altijd op bestelling.",
-        "imagePrompt": "Fresh sushi rolls and poke bowl with salmon, tuna and avocado made with fresh fish, vibrant food photography, ceramic tableware, natural daylight, modern food presentation in a Dutch fish shop setting"
+        "title": "Feest zonder stress: bestel een visschotel",
+        "excerpt": "Of het nu een verjaardag, borrel of diner is — een vis- of tapasschotel van Van Bakel zorgt voor een instant feestelijke tafel. Groot of klein, wij stellen hem volledig op maat samen.",
+        "imagePrompt": "Large festive seafood platter with smoked salmon, shrimp cocktail, oysters and fish tapas on a rustic wooden table surrounded by glasses and candles, warm inviting dinner party atmosphere"
       }
     ],
     "testimonials": [
       {
-        "name": "Marianne de Groot",
-        "company": "Vaste klant, Oss",
-        "quote": "Al jaren kom ik hier voor mijn verse vis en ik word nooit teleurgesteld. Het personeel is vriendelijk en adviseert je altijd goed. De zalmsalade is echt heerlijk!",
+        "name": "Marieke de Vries",
+        "company": "Oss",
+        "quote": "Al jaren mijn vaste viswinkel! De kibbeling is absoluut de beste van Oss en het personeel is altijd vriendelijk en behulpzaam. Aanrader voor iedereen.",
         "rating": 5
       },
       {
-        "name": "Peter Janssen",
-        "company": "Vaste klant, Oss",
-        "quote": "Voor ons kerstfeest een grote visschotel besteld — prachtig gepresenteerd en heerlijk van smaak. Iedereen onder de indruk. Zeker voor herhaling vatbaar.",
+        "name": "Tom Janssen",
+        "company": "Oss",
+        "quote": "De Osse Visplank hebben wij besteld voor een verjaardag — iedereen was onder de indruk. Prachtig opgemaakt, heerlijk vers en de huisgemaakte aïoli is geweldig.",
         "rating": 5
       },
       {
-        "name": "Sandra Willems",
-        "company": "Klant, Oss",
-        "quote": "De kibbeling hier is echt de lekkerste van de regio. Knapperig, mals en altijd vers. Ik kom er speciaal voor langs — en dan neem ik ook altijd wat van de salades mee.",
+        "name": "Sandra Kuijpers",
+        "company": "Berghem",
+        "quote": "Fantastische visspeciaalzaak met een enorm aanbod. De zalmsalade is mijn absolute favoriet. Ik kom hier elke week voor verse vis en ga nooit teleurgesteld weg.",
         "rating": 5
       },
       {
-        "name": "Rob van den Berg",
-        "company": "Klant, Oss",
-        "quote": "Geweldige visspeciaalzaak. Het assortiment is groot, de kwaliteit is uitstekend en de service is persoonlijk en vriendelijk. Een echte aanrader voor iedereen in de regio.",
+        "name": "Peter van den Berg",
+        "company": "Oss",
+        "quote": "Voor ons bedrijfsfeest hebben wij een grote visschotel besteld. Van Bakel regelde alles perfect, de schotel was groots en heerlijk. Absoluut een aanrader!",
         "rating": 5
       },
       {
-        "name": "Inge Kuijpers",
-        "company": "Vaste klant, Oss",
-        "quote": "De Osse Visplank hebben wij besteld voor een verjaardag — iedereen was er enthousiast over. Rijkelijk gevuld, mooi gepresenteerd en van topkwaliteit. Dank jullie wel!",
+        "name": "Lisa Hermans",
+        "company": "Oss",
+        "quote": "De sushi is verrassend goed voor een viswinkel! Altijd vers en smaakvol. Fijn dat je hier ook gewoon dagverse vis en kant-en-klare maaltijden kunt halen.",
         "rating": 5
       }
     ],
     "pricing": null,
-    "ctaTitle": "Zin in verse vis uit Oss?",
-    "ctaText": "Kom langs aan de Terwaenen 30 in Oss of neem contact op voor een bestelling op maat. Harold en zijn team helpen u graag verder.",
+    "ctaTitle": "Zin in iets lekkers uit de zee?",
+    "ctaText": "Kom langs in onze winkel aan de Terwaenen 30 in Oss, bel ons of stuur een mail voor uw bestelling of vragen. Wij helpen u graag verder.",
     "ctaButtonText": "Neem contact op",
-    "footerTagline": "Dé visspecialist van Oss — vers, vakkundig en met passie bereid.",
+    "footerTagline": "Dé visspecialist van Oss — vers, eigen keuken, al 27 jaar.",
     "footerLinks": [
       {
         "label": "Home",
         "href": "#"
       },
       {
-        "label": "Verse vis",
+        "label": "Verse Vis",
         "href": "#"
       },
       {
@@ -231,15 +231,15 @@
         "href": "#"
       },
       {
-        "label": "Schalen & schotels",
+        "label": "Sushi & Poké Bowls",
         "href": "#"
       },
       {
-        "label": "Sushi & pokébowls",
+        "label": "Visschotels",
         "href": "#"
       },
       {
-        "label": "Salades & tapas",
+        "label": "Tapas & Salades",
         "href": "#"
       },
       {
@@ -257,20 +257,20 @@
       "iban": "",
       "whatsappNumber": "+31625027691"
     },
-    "seoTitle": "Visspeciaalzaak van Bakel | Verse Vis, Sushi & Visschotels in Oss",
-    "seoDescription": "Dé visspecialist in Oss al 27 jaar. Verse vis, gebakken kibbeling, sushi, pokébowls, vis- en tapasschalen en zelfgemaakte salades. Bestel op maat bij Visspeciaalzaak van Bakel aan de Terwaenen.",
+    "seoTitle": "Visspeciaalzaak van Bakel | Verse Vis, Maaltijden & Visschotels in Oss",
+    "seoDescription": "Al 27 jaar dé visspeciaalzaak van Oss. Verse vis, gebakken kibbeling, sushi, poké bowls, tapasschalen en kant-en-klare maaltijden — alles uit eigen keuken. Bestel nu bij Van Bakel.",
     "pages": [
       {
         "name": "Home",
         "slug": "/"
       },
       {
-        "name": "Ons assortiment",
-        "slug": "/assortiment"
+        "name": "Aanbod",
+        "slug": "/aanbod"
       },
       {
-        "name": "Schalen & bestellen",
-        "slug": "/schalen-bestellen"
+        "name": "Schotels & Feest",
+        "slug": "/schotels"
       },
       {
         "name": "Over ons",
@@ -282,73 +282,73 @@
       }
     ],
     "diensten": {
-      "heroTitle": "Ons assortiment",
-      "heroText": "Van dagverse vis en zelfgemaakte salades tot luxe visschotels en sushi — ontdek het volledige aanbod van Visspeciaalzaak van Bakel.",
-      "sectionTitle": "Alles wat een visliefhebber nodig heeft",
-      "sectionText": "Bij Van Bakel vindt u een uitgebreid assortiment voor elk moment: van een snel broodje tot een uitgebreide feestschotel. Alles vers, alles met zorg bereid.",
-      "uspTitle": "Onze keuken, uw smaak",
-      "uspText": "Wat ons onderscheidt is onze eigen keuken. We maken alles zelf: van kruidenboter en aïoli tot visbami en zalmsalade. Geen kant-en-klaar van de fabriek, maar vakmanschap dat u proeft.\n\nDaarnaast bieden we een breed assortiment schaal- en schelpdieren, sushi, pokébowls en tapasplanken — allemaal te bestellen op maat voor uw gelegenheid.",
+      "heroTitle": "Ons Aanbod",
+      "heroText": "Van dagverse vis en gebakken snacks tot ambachtelijke sushi, rijkgevulde visschotels en kant-en-klare maaltijden — allemaal bereid met vakmanschap en liefde.",
+      "sectionTitle": "Alles voor de echte visliefhebber",
+      "sectionText": "Bij Visspeciaalzaak van Bakel vindt u een wereld aan vis- en zeevruchtenproducten. Ons aanbod wisselt mee met het seizoen en de vangst, maar de kwaliteit blijft altijd hoog.",
+      "uspTitle": "Waar Van Bakel voor staat",
+      "uspText": "Wij geloven dat verse vis elke dag een feestje kan zijn. Daarom bereiden wij onze producten zelf, kiezen wij voor kwaliteitsvis en staan wij open voor elk verzoek — van een eenvoudig broodje tot een complete feestschotel.\n\nOf u nu een vaste klant bent of voor het eerst binnenloopt: bij Van Bakel wordt u altijd goed geholpen met een breed aanbod en persoonlijk advies.",
       "uspChecklist": [
-        "Dagverse aanvoer van vis en zeevruchten",
-        "Zelfgemaakte sauzen, marinades en salades",
-        "Op bestelling: schalen, sushi en feestschotels",
-        "Persoonlijk advies van ons ervaren team"
+        "Dagvers assortiment, ook op bestelling",
+        "Eigen keuken: sauzen, marinades en bereide gerechten",
+        "Feestschotels en sushi op maat",
+        "27 jaar vakmanschap en vertrouwen in Oss"
       ]
     },
     "projecten": {
-      "heroTitle": "Schalen & bestellen",
-      "heroText": "Bestel een vis- of tapasschotel op maat voor uw feest, verjaardag of gezellige avond — wij verzorgen de presentatie.",
-      "gridTitle": "Onze signature schalen",
-      "gridText": "Van de Osse Visplank tot de Visschaal de Luxe en de Gourmet de Luxe — wij maken uw schotel op maat en zorgen dat uw gasten genieten."
+      "heroTitle": "Onze Creaties",
+      "heroText": "Een inkijkje in de prachtige visplanken, schotels en gerechten die wij dagelijks bereiden voor onze klanten in Oss en omgeving.",
+      "gridTitle": "Gemaakt met passie en vakmanschap",
+      "gridText": "Van de iconische Osse Visplank tot feestelijke tapasschotels en verse sushi — elk gerecht is een statement van kwaliteit en smaak."
     },
     "overOns": {
-      "heroTitle": "Over ons",
-      "heroText": "Leer het team achter Visspeciaalzaak van Bakel kennen — een gepassioneerd stel vakmensen dat al 27 jaar vers en met liefde werkt.",
+      "heroTitle": "Over Van Bakel",
+      "heroText": "Al 27 jaar de vertrouwde visspeciaalzaak van Oss — een gezellig team, eigen recepten en dagverse kwaliteit.",
       "storyTitle": "Ons verhaal",
-      "storyText": "Visspeciaalzaak van Bakel is in 1997 gestart aan de Terwaenen 30 in Oss en groeide in 27 jaar tijd uit tot dé visspecialist van de regio. Harold en zijn team bouwen elke dag verder aan een winkel waar kwaliteit, versheid en persoonlijke service centraal staan.\n\nOnze kracht zit in onze eigen keuken. Terwijl in veel winkels producten van buiten komen, bereiden wij alles zelf. Van kruidenboter en huisgemaakte aïoli tot visbami, zalmsalade en de beroemde Osse Visplank — elk product draagt het handtekening van Van Bakel.\n\nWe zijn er trots op dat zoveel klanten uit Oss en omgeving ons al jaren trouw zijn. Die loyaliteit verdienen we elke dag opnieuw, met eerlijk advies, verse producten en een warm welkom zodra u door onze deur stapt."
+      "storyText": "Visspeciaalzaak van Bakel is al meer dan 27 jaar een begrip in Oss. Gelegen aan de Terwaenen 30, bieden wij onze klanten dagelijks een ruim assortiment verse vis, kant-en-klare producten en zelfgemaakte salades. Wat ooit begon als een traditionele viswinkel, is uitgegroeid tot een volwaardig gastronomisch adres voor visliefhebbers.\n\nAlles wat u bij ons proeft, is gemaakt in onze eigen keuken. Van kruidenboter tot visbami, van huisgemaakte aïoli tot verfijnde marinades — elk recept is het resultaat van jaren vakmanschap en passie voor vis. Ons team werkt elke dag met plezier om klanten te verrassen met het beste van de zee.\n\nWij zijn trots op de band met onze klanten. Velen komen al jarenlang bij ons terug — voor de smaak, de service en het vertrouwde gevoel van een echte buurtspeciaalzaak die weet wat kwaliteit is."
     },
     "contactPage": {
       "heroTitle": "Contact",
-      "heroText": "Heeft u een vraag, wilt u iets bestellen of wilt u gewoon even langskomen? Harold en zijn team staan voor u klaar.",
+      "heroText": "Heeft u een vraag, wilt u een bestelling plaatsen of een schotel reserveren? Wij staan graag voor u klaar.",
       "detailsTitle": "Kom langs of neem contact op",
-      "detailsText": "U vindt ons aan de Terwaenen 30 in Oss. Voor speciale bestellingen zoals visschalen, sushi of gourmetschotels raden wij aan vooraf contact op te nemen zodat we alles voor u kunnen klaarmaken.",
+      "detailsText": "U vindt ons aan de Terwaenen 30 in Oss. Voor bestellingen, vragen over ons aanbod of het reserveren van een feestschotel kunt u ons bellen, mailen of gewoon binnenlopen tijdens onze openingstijden.",
       "faqTitle": "Veelgestelde vragen",
-      "faqText": "De meest gestelde vragen over ons assortiment, bestellingen en openingstijden.",
+      "faqText": "Hieronder vindt u antwoorden op de meestgestelde vragen van onze klanten.",
       "faq": [
         {
-          "question": "Kan ik een visschotel vooraf bestellen?",
-          "answer": "Ja, dat is zelfs aan te raden. Visschalen, gourmetschotels, sushi en sashimi bestelt u bij voorkeur vooraf telefonisch of via e-mail. Zo zorgen we dat alles klaar en vers is op het moment dat u het nodig heeft."
+          "question": "Kan ik een visschotel of sushi op bestelling plaatsen?",
+          "answer": "Ja, dat kan zeker! Visschotels, gourmetschalen, fondueschalen en sushi kunt u bij ons vooraf bestellen. Neem contact op via telefoon of e-mail om uw wensen door te geven en wij regelen de rest."
         },
         {
-          "question": "Verkopen jullie ook exotische vissoorten?",
-          "answer": "Jazeker. Naast ons vaste assortiment kunnen wij op bestelling ook exotische vissoorten voor u regelen. Neem contact op en we kijken samen wat de mogelijkheden zijn."
+          "question": "Heeft u ook exotische vissoorten in het assortiment?",
+          "answer": "Naast ons dagelijkse assortiment kunnen wij ook exotische of minder gangbare vissoorten speciaal voor u bestellen. Informeer gerust naar de mogelijkheden — wij doen ons best om uw wens te vervullen."
         },
         {
-          "question": "Zijn jullie producten dagvers?",
-          "answer": "Absoluut. Wij ontvangen dagelijks verse aanvoer en selecteren onze vis zorgvuldig op kwaliteit. U kunt erop vertrouwen dat u altijd het versste krijgt wat beschikbaar is."
+          "question": "Zijn de sauzen en marinades echt zelfgemaakt?",
+          "answer": "Absoluut! Alle marinades, sauzen en producten zoals kruidenboter en visbami worden door ons eigen team bereid in onze keuken. Niets komt uit een fabriek — dat proeft u direct."
         },
         {
-          "question": "Maken jullie de sauzen en salades zelf?",
-          "answer": "Ja, alles wat uit onze keuken komt is zelfgemaakt. Van kruidenboter en aïoli tot visbami, salades en marinades — geen fabrieksproduct maar eigen recept en vakmanschap."
+          "question": "Wat zijn uw openingstijden?",
+          "answer": "Onze openingstijden staan vermeld op onze website en in de winkel. Voor de meest actuele tijden kunt u ons bellen of onze Google-pagina raadplegen. Tijdens drukke periodes (feestdagen) kunnen tijden afwijken."
         },
         {
-          "question": "Waar is Visspeciaalzaak van Bakel gevestigd?",
-          "answer": "U vindt ons op de Terwaenen 30 in Oss. Voor openingstijden en vragen kunt u ook bellen of mailen — Harold en zijn team helpen u graag verder."
+          "question": "Kunt u ook bezorgen of alleen afhalen?",
+          "answer": "Op dit moment kunt u uw bestelling ophalen in onze winkel aan de Terwaenen 30 in Oss. Voor vragen over speciale situaties kunt u altijd contact met ons opnemen — we denken graag mee."
         }
       ]
     },
     "imagePrompts": {
-      "hero": "Fresh fish market interior with vibrant display of whole fish, salmon fillets and seafood on ice, bright natural light, inviting Dutch fish shop atmosphere, colorful and appetizing product presentation",
-      "about": "Friendly fishmonger team behind a fresh fish counter in a well-stocked Dutch fish shop, natural warm light, professional yet approachable staff, fresh fish products on display",
-      "uniqueBg": "Dark ocean water abstract texture with subtle fish scale reflections, deep teal and dark green tones, elegant and natural background for seafood brand",
-      "stepsBg": "Aerial view of a wooden cutting board with fresh fish fillet, herbs, lemon and sea salt, soft natural daylight, clean composition, artisanal food preparation setting",
-      "ctaBg": "Vibrant fresh fish counter with colorful seafood display, mussels, salmon and shrimp on crushed ice, warm natural light, Dutch fishmonger setting, inviting and professional atmosphere",
-      "dienstenHero": "Wide display of various fresh fish products, seafood platters, sushi and fish salads in a Dutch fish specialty shop, vibrant colors, natural light, gourmet food photography",
-      "dienstenUsp": "Close-up of homemade fish salad, aioli and marinated shrimp on wooden board, soft natural light, fresh herbs and vibrant colors, artisanal food photography",
-      "projectenHero": "Elegant fish and seafood party platters on a festive table, salmon, smoked eel, shrimp and garnishes beautifully presented, warm natural light, gourmet catering photography",
-      "overOnsHero": "Exterior and interior of a traditional Dutch fish shop with fresh products on display, friendly staff visible, warm inviting light, neighborhood specialty store atmosphere",
-      "overOnsStory": "Interior of a traditional Dutch fish specialty shop at work, team preparing fresh fish products behind the counter, natural light, wooden counters and fresh produce visible",
-      "contactHero": "Welcoming entrance of a Dutch fish shop with fresh fish display in the window, bright natural light, green accents, neighborhood atmosphere in Oss Netherlands"
+      "hero": "Vibrant Dutch fish shop counter with beautifully arranged fresh whole fish, salmon fillets, smoked eel and shellfish on crushed ice, warm soft natural light, inviting and fresh commercial food photography",
+      "about": "Friendly fishmonger team behind a well-stocked fish counter in a traditional Dutch fish shop, smiling, surrounded by fresh fish and seafood products, warm natural light, authentic and inviting portrait",
+      "uniqueBg": "Dark moody underwater inspired background with subtle fish textures and deep ocean blues and greens, soft vignette, abstract food restaurant ambiance photography",
+      "stepsBg": "Bright clean fishmonger shop interior with tiled walls, wooden counters and fresh seafood on display, soft natural daylight, inviting Dutch specialty food store atmosphere",
+      "ctaBg": "Elegant overhead shot of a large seafood platter with lobster, oysters, smoked salmon and prawns on crushed ice, dramatic rich colors, fine dining seafood photography dark background",
+      "dienstenHero": "Wide angle shot of a well-stocked fresh fish market counter with whole fish, fillets, shellfish and prepared dishes, vibrant fresh colors, natural light, Dutch visspeciaalzaak atmosphere",
+      "dienstenUsp": "Fresh ingredients for fish dishes including herbs, lemons, olive oil and various fresh fish on a rustic wooden kitchen table, bright natural light, styled food photography",
+      "projectenHero": "Beautiful array of Dutch fish shop specialty dishes including sushi, seafood platters, smoked fish boards and tapas arranged on a wooden table, vibrant and abundant food photography",
+      "overOnsHero": "Authentic Dutch fish specialist shop exterior or interior with traditional signage, fresh products on display, warm welcoming atmosphere, community market feel photography",
+      "overOnsStory": "Close-up of experienced fishmonger hands preparing a fresh salmon fillet at a wooden cutting board, professional apron, knowledgeable and skilled, warm natural kitchen light",
+      "contactHero": "Welcoming Dutch fish shop storefront on a sunny street with fresh produce in the window, inviting open door, warm natural daylight, authentic neighbourhood specialty store photography"
     }
   },
   "logoUrl": "data:image/png;base64,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",
